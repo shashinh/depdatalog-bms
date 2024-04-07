@@ -1,0 +1,7 @@
+Age_Adolescent 0.2
+Age_Adult 0.6
+Age_Senior 0.2
+Mileage_FiveThou 0.1
+Mileage_TwentyThou 0.4
+Mileage_FiftyThou 0.4
+Mileage_Domino 0.1

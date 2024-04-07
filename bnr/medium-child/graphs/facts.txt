@@ -1,0 +1,2 @@
+BirthAsphyxia_yes 0.1
+BirthAsphyxia_no 0.9
