@@ -1,0 +1,4 @@
+asia_yes 0.01
+asia_no 0.99
+smoke_yes 0.5
+smoke_no 0.5

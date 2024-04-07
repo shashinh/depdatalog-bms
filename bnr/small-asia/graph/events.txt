@@ -1,0 +1,16 @@
+asia_yes
+asia_no
+tub_yes
+tub_no
+smoke_yes
+smoke_no
+lung_yes
+lung_no
+bronc_yes
+bronc_no
+either_yes
+either_no
+xray_yes
+xray_no
+dysp_yes
+dysp_no
