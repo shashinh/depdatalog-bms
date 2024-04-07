@@ -1,0 +1,4 @@
+Pollution_low 0.9
+Pollution_high 0.1
+Smoker_True 0.3
+Smoker_False 0.7

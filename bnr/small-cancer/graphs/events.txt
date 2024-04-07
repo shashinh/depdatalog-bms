@@ -1,0 +1,10 @@
+Pollution_low
+Pollution_high
+Smoker_True
+Smoker_False
+Cancer_True
+Cancer_False
+Xray_positive
+Xray_negative
+Dyspnoea_True
+Dyspnoea_False

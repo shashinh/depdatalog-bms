@@ -1,0 +1,10 @@
+Burglary_True
+Burglary_False
+Earthquake_True
+Earthquake_False
+Alarm_True
+Alarm_False
+JohnCalls_True
+JohnCalls_False
+MaryCalls_True
+MaryCalls_False

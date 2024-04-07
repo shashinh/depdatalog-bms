@@ -1,0 +1,4 @@
+Burglary_True 0.01
+Burglary_False 0.99
+Earthquake_True 0.02
+Earthquake_False 0.98

@@ -1,0 +1,14 @@
+A_young
+A_adult
+A_old
+S_M
+S_F
+E_high
+E_uni
+O_emp
+O_self
+R_small
+R_big
+T_car
+T_train
+T_other
