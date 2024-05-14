@@ -1,0 +1,6 @@
+Cancer_True	0.01163
+Cancer_False	0.98837
+Xray_positive	0.208141
+Xray_negative	0.791859
+Dyspnoea_True	0.3040705
+Dyspnoea_False	0.6959295
