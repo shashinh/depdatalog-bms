@@ -56,3 +56,4 @@ LungFlow_Low Disease_PFC 0.65
 LungFlow_High Disease_PFC 0.05
 Sick_yes Disease_PFC 0.4
 Sick_no Disease_PFC 0.6
+BirthAsphyxia_yes BirthAsphyxia_no 0

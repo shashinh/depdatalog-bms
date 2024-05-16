@@ -140,3 +140,14 @@ hbeag_present vh_amn_present,ChHepatitis_active 0.00355872
 hbeag_absent vh_amn_present,ChHepatitis_active 0.99644128
 carcinoma_present Cirrhosis_decompensate,PBC_present 0.3636364
 carcinoma_absent Cirrhosis_decompensate,PBC_present 0.6363636
+alcoholism_present alcoholism_absent 0
+vh_amn_present vh_amn_absent 0
+hepatotoxic_present hepatotoxic_absent 0
+hospital_present hospital_absent 0
+surgery_present surgery_absent 0
+gallstones_present gallstones_absent 0
+sex_female sex_male 0
+age_age65_100 age_age51_65 0
+age_age65_100 age_age31_50 0
+age_age65_100 age_age0_30 0
+diabetes_present diabetes_absent 0

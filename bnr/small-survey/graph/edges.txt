@@ -7,3 +7,6 @@ R_big E_high 0.75
 T_car O_emp,R_small 0.48
 T_train O_emp,R_small 0.42
 T_other O_emp,R_small 0.1
+A_young A_adult 0
+A_young A_old 0
+S_M S_F 0

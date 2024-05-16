@@ -80,3 +80,8 @@ ILiCost_Million Accident_None 0.0
 DrivHist_Zero DrivingSkill_SubStandard,RiskAversion_Psychopath 0.001
 DrivHist_One DrivingSkill_SubStandard,RiskAversion_Psychopath 0.004
 DrivHist_Many DrivingSkill_SubStandard,RiskAversion_Psychopath 0.995
+Age_Adolescent Age_Adult 0
+Age_Adolescent Age_Senior 0
+Mileage_FiveThou Mileage_TwentyThou 0
+Mileage_FiveThou Mileage_FiftyThou 0
+Mileage_FiveThou Mileage_Domino 0

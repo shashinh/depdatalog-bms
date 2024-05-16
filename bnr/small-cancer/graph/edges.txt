@@ -4,3 +4,5 @@ Xray_positive Cancer_True 0.9
 Xray_negative Cancer_True 0.1
 Dyspnoea_True Cancer_True 0.65
 Dyspnoea_False Cancer_True 0.35
+Pollution_low Pollution_high 0
+Smoker_True Smoker_False 0

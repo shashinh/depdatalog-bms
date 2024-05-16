@@ -10,3 +10,5 @@ xray_yes either_yes 0.98
 xray_no either_yes 0.02
 dysp_yes bronc_yes,either_yes 0.9
 dysp_no bronc_yes,either_yes 0.1
+asia_yes asia_no 0
+smoke_yes smoke_no 0

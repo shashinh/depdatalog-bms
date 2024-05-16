@@ -4,3 +4,5 @@ JohnCalls_True Alarm_True 0.9
 JohnCalls_False Alarm_True 0.1
 MaryCalls_True Alarm_True 0.7
 MaryCalls_False Alarm_True 0.3
+Burglary_True Burglary_False 0
+Earthquake_True Earthquake_False 0
