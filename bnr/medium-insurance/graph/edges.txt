@@ -1,3 +1,4 @@
+Age_Adult Mileage_FiftyThou 0.3
 GoodStudent_True SocioEcon_Prole,Age_Adolescent 0.1
 GoodStudent_False SocioEcon_Prole,Age_Adolescent 0.9
 SocioEcon_Prole Age_Adolescent 0.4

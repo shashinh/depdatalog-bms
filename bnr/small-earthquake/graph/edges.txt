@@ -1,3 +1,4 @@
+Burglary_True Earthquake_False 0.009
 Alarm_True Burglary_True,Earthquake_True 0.95
 Alarm_False Burglary_True,Earthquake_True 0.05
 JohnCalls_True Alarm_True 0.9

@@ -1,3 +1,4 @@
+Pollution_low Smoker_False 0.97
 Cancer_True Pollution_low,Smoker_True 0.03
 Cancer_False Pollution_low,Smoker_True 0.97
 Xray_positive Cancer_True 0.9

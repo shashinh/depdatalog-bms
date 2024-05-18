@@ -1,3 +1,4 @@
+smoke_no asia_yes 0.37
 tub_yes asia_yes 0.05
 tub_no asia_yes 0.95
 lung_yes smoke_yes 0.1
