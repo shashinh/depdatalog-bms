@@ -1,9 +1,9 @@
 Pollution_low Smoker_False 0.97
-Cancer_True Pollution_low,Smoker_True 0.03
-Cancer_False Pollution_low,Smoker_True 0.97
+Cancer_True Pollution_high,Smoker_True 0.05
+Cancer_False Pollution_low,Smoker_False 0.999
 Xray_positive Cancer_True 0.9
-Xray_negative Cancer_True 0.1
+Xray_negative Cancer_False 0.8
 Dyspnoea_True Cancer_True 0.65
-Dyspnoea_False Cancer_True 0.35
+Dyspnoea_False Cancer_False 0.7
 Pollution_low Pollution_high 0
 Smoker_True Smoker_False 0
